@@ -1063,7 +1063,7 @@ section,
   font-size: 20px;
   color: var(--accent-color);
   background: color-mix(in srgb, var(--accent-color), transparent 92%);
-  width: 44px;
+  width: 100px;
   height: 44px;
   display: flex;
   justify-content: center;
